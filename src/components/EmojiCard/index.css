@@ -1,0 +1,14 @@
+/* Write your code here. */
+
+.button {
+  background-color: #9796f0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: white;
+  margin: 20px;
+}

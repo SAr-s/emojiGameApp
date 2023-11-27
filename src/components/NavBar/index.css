@@ -1,0 +1,22 @@
+/* Write your code here. */
+.navbar-container {
+  background-color: #6a59ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.score-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+}
+.hide {
+  display: none;
+}

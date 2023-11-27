@@ -1,0 +1,6 @@
+/* Write your code here. */
+.win-or-lose-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
